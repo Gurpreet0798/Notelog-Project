@@ -1,2 +1,2 @@
 # Notelog-Project
-This is a Note-log Project which is made with the help of HTML, CSS, JAVASCRIPT and JQuery. It will store all important information about your notes and even in future you can add or delete more notes.
+This is the Note-Log Project which can be used in day-to-day life to make notes and have a complete record of the important stuff. It is made with the help of HTML, CSS, Javascript, and its library, JQuery. In the future, I am thinking of adding a voice assistant to this project which will help visually impaired people and disabled people so that they can quickly speak and their notes will be taken through it. Also planning to add features of understanding sign language for those who cannot talk with the help of some Python libraries.
